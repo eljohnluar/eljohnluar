@@ -4,7 +4,7 @@
 
 ## About Me 
 
-👨🏻‍💻 T e c h E n t h u s i a s t
+Information Technology Student
 
 - Studying at Bestlink College of the Philippines
 - Currently learning: Software Development
