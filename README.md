@@ -1,16 +1,15 @@
-## Hi there 👋
+<picture>
+  <img alt="Hi there, I'm Eljohn!" src="img/github-header-banner.png">
+</picture>
 
-<!--
-**eljohnluar/eljohnluar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 
 
-Here are some ideas to get you started:
+👨🏻‍💻 T e c h E n t h u s i a s t
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Studying at Bestlink College of the Philippines
+- Currently learning: Software Development
+
+## My GitHub Stats 📊
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=eljohnluar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eljohnluar&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
