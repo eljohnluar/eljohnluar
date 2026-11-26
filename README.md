@@ -2,13 +2,13 @@
   <img alt="Hi there, I'm Eljohn!" src="img/github-header-banner.png">
 </picture>
 
-## About Me 
+## About Me
 
-Bachelor of Science in Information Technology
+<img src="https://api.iconify.design/mdi/certificate.svg?color=%233b82f6" width="20" height="20" align="center" /> **Course:** Bachelor of Science in Information Technology
 
-Bestlink College of the Philippines
+<img src="https://api.iconify.design/mdi/school.svg?color=%233b82f6" width="20" height="20" align="center" /> **Education:** Bestlink College of the Philippines
 
-Currently learning: Software Development
+<img src="https://api.iconify.design/mdi/book-open-page-variant.svg?color=%233b82f6" width="20" height="20" align="center" /> **Currently learning:** Software Development
 
 ## Tech Stack
 
