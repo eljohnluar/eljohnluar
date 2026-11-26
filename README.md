@@ -4,10 +4,9 @@
 
 ## About Me 
 
-Information Technology Student
-
-- Studying at Bestlink College of the Philippines
-- Currently learning: Software Development
+Bachelor of Science in Information Technology
+Bestlink College of the Philippines
+Currently learning: Software Development
 
 ## Tech Stack
 
