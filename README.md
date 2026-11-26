@@ -5,7 +5,9 @@
 ## About Me 
 
 Bachelor of Science in Information Technology
+
 Bestlink College of the Philippines
+
 Currently learning: Software Development
 
 ## Tech Stack
